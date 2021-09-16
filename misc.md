@@ -23,3 +23,5 @@ Beveled Glass:
 Fireplace Screens: (Prevent pets from falling into fires!)
 
 ![Screen Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/screen.png)
+
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/edit/gh-pages/index.md)_
