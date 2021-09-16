@@ -39,7 +39,7 @@ Rice Bowl, Tropical Fish Salad, Corn Porridge, Beef Stew, Rabbit Bigo, Lamb Biry
 
 Cod Chowder, Full Breakfast, Spicy Chicken Curry
 
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bowl_3.png)
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bowl_4.png)
 
 ## Sushi & Bento Boxes
 
