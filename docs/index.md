@@ -13,6 +13,7 @@ Here you will find all the various information you will need for ValleyCraft on 
 * [Redstone Lanterns, Hanging Lanterns & Braziers](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/lights.md)
 * [Furniture & Miscellaneous Recipes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/misc.md)
 * [Exploration, Loot & Gameplay Changes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/loot.md)
+* [Update Log](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/update.md)
 
 ## Would you like to suggest a feature or report a bug?
 * [Report Bugs](https://docs.google.com/forms/d/1S_4cj_lOQYHhpOkUtYO4aLKt_djE2MYwI45i03fNmrc/prefill)
