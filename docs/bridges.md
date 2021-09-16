@@ -1,3 +1,5 @@
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_rope.png)
+
 ## Rope, Nets, Spike Traps & Rope Bridges
 
 A myriad of equipment useful for climbing, walking across, hanging things, and even tying Leads to! Careful not to fall!
