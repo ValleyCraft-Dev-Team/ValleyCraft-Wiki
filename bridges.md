@@ -1,4 +1,4 @@
-## Rope, Nets, & Rope Bridges
+## Rope, Nets, Spike Traps & Rope Bridges
 
 Useful for climbing, walking across, hanging things, and even tying Leads to!
 
@@ -17,6 +17,10 @@ Rope Bridge:
 Rope Bridge Anchor:
 
 ![Rope Bridge Anchor Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/anchor.png)
+
+Spike Trap: (Careful! These are incredibly sharp and will make quick work of mobs, you, and any items you hold dear!)
+
+![Spike Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/spikes.png)
 
 ![Display_Rope](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/display_rope_1.png)
 
