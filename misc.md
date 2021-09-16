@@ -1,5 +1,9 @@
 ## Furniture & Miscellaneous Recipes
 
+Tables, stools, beveled windows, and more!
+
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/edit/gh-pages/index.md)_
+
 Tables: (All wood types and a stone variant.)
 
 ![Table](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/table.png)
