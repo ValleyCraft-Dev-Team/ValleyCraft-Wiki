@@ -36,4 +36,6 @@ Spike Trap: (Careful! These are incredibly sharp and will make quick work of mob
 
 ![Display_Rope 2](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/display_rope_2.png)
 
+![Display_Spikes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/spikes.png)
+
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
