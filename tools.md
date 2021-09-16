@@ -10,7 +10,7 @@ Plant Fiber is used to make **Rope**, the a vital item in many recipes, such as 
 
 ![Rope Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/rope.png)
 
-Sickles work like hoes, but they also make a good weapon in a pinch, they swing a bit slower than their counterpart, but deal more damage in return.
+Sickles work like hoes, but they also make a good weapon in a pinch. They swing a bit slower than their counterpart, and deal more damage in return.
 
 ![Sickle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sickle.png)
 
