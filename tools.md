@@ -39,3 +39,8 @@ Arrow Bundles are handy when you need to pack light for an adventure but still n
 Bomb Bags can be found deep underground in abandoned mineshafts, right clicking them will give you some TNT. Always use with caution.
 
 ![Bag Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bag.png)
+
+Soup Ladles make for quick cheap shovels, also my brain says it's funny to hit zombies with them, don't ask me why.
+
+![Ladle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/ladle.png)
+
