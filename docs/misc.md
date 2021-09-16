@@ -26,6 +26,10 @@ Fireplace Screens: (Prevent pets from falling into fires!)
 
 ![Screen Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/screen.png)
 
+Stew Pot:
+
+![Stew Pot Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/stew_pot.png)
+
 Salt & Charcoal Blocks:
 
 ![Salt & Charcoal Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/blocks.png)
