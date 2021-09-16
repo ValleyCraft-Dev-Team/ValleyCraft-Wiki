@@ -1,4 +1,6 @@
-## Farming Goods 
+## Farming Goods & Information
+
+**New crops can be found scattered throughout the world, if you'd to find them on your own, don't scroll past the Soul Jack o'Lantern recipe.**
 
 Turf:
 
@@ -23,3 +25,13 @@ Scarecrow w/ Hat:
 Soul Jack o'Lantern:
 
 ![Grass Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/soul.png)
+
+**Where to find the new crops.**
+
+* Spicy Berries are a heavily guarded treasure in Bastions.
+* Tomatos can be found growing high up in Shattered Savannas.
+* Corn can be found in Jungle Temples.
+* Bitter Berries grow anywhere Podzol can be found.
+* Rice Seedlings can be found sprouting in Dungeon chests.
+
+![Crops](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/crops.png)
