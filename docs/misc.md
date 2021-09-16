@@ -1,3 +1,5 @@
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_furniture.png)
+
 ## Furniture & Miscellaneous Recipes
 
 Tables, stools, beveled windows, and more!
