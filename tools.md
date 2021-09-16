@@ -18,6 +18,18 @@ Sickles work like hoes, but they also make a good weapon in a pinch, they swing 
 
 Hatchets, the friendly pocket-sized varient of axes. They swing faster but do a bit less damage.
 
+![Iron Ladder Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/iron.png)
+
+Iron Ladders are strong enough to stand on their own, and they can withstand a decent blast!
+
+![Bamboo Ladder Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bamboo.png)
+
+Bamboo Ladders are strong enough to stand on their own too!
+
+![Ladder Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/ladder.png)
+
+Wooden Ladders are strong enough to stand on their own, and they come in all wood variants!
+
 ![Lumber Axe Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/lumber.png)
 
 The Lumber Axe has twice the durability of an Iron Axe, but swings slower when attacking.
