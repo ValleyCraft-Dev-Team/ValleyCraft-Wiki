@@ -18,14 +18,13 @@ _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/
 * **Shipwrecks** now have Anchors, and Golden Chalices.
 
 ## WorldGen
-* **Mixed Ore**, **Salt Ore**, and **Saltpeter Ore** can now be found in all biomes.
-* **Mud** can now be found under wet biomes, such as swamps, rivers, and oceans.
+*  **Mud**, **Mixed Ore**, **Salt Ore**, and **Saltpeter Ore** can now be found in all biomes.
 * **Volcanic Ash** and **Volcanic Stone** can now be found deep in the heart of jungles.
 * **Salt Ore** and **Coal Ore** can now be found throughout the Nether.
 * **Small Cacti** and **Tumbleweeds** can now be found in dry biomes, such as deserts and mesas.
 * **Fern, Peony, Lilac,** and **Rose Bushes** can be found in their respective biome types that match with their larger counterparts.
 * **Tomato Bushes** can be found growing in shattered plateaus.
-* **Bitter Berry Bushes** grow in biomes where [Podzol](https://minecraft.fandom.com/wiki/Podzol) can be found.
+* **Bitter Berry Bushes** can be found growing in jungles.
 
 ## Mod compatibility info:
 For the sake of compatibility with other mods, the following loot tables have been changed:
