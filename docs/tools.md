@@ -10,7 +10,7 @@ Knives can be made with any vanilla tool material (i.e. Iron, Stone, et cetera) 
 
 ![Knife Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/knife.png)
 
-Plant Fiber is used to make **Rope**, the a vital item in many recipes, such as [**Rope Bridges**, **Spike Traps,** **Nets**,](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/bridges.md) and [**Braziers**.](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/lights.md)
+Plant Fiber is used to make **Rope**, a vital item in many recipes, such as [**Rope Bridges**, **Spike Traps,** **Nets**,](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/bridges.md) and [**Braziers**.](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/lights.md)
 
 ![Rope Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/rope.png)
 
