@@ -2,7 +2,7 @@
 
 **New crops can be found scattered throughout the world, if you'd to find them on your own, don't scroll past the Soul Jack o'Lantern recipe.**
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/edit/gh-pages/index.md)_
+_[Return to Main Page](https://l1nkl3.github.io/ValleyCraft/)_
 
 Turf:
 
@@ -38,4 +38,4 @@ Soul Jack o'Lantern:
 
 ![Crops](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/crops.png)
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/edit/gh-pages/index.md)_
+_[Return to Main Page](https://l1nkl3.github.io/ValleyCraft/)_
