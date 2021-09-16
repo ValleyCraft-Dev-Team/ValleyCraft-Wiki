@@ -2,7 +2,7 @@
 
 Useful for climbing, walking across, hanging things, and even tying Leads to!
 
-Ropes:
+Ropes: (Can be climbed, walked through, and walked on top of!)
 
 ![Rope Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/rope.png)
 
@@ -12,7 +12,7 @@ Alternate Fiber Recipes:
 
 ![Fiber Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bamboo-fiber.png)
 
-Nets:
+Nets: (Prevent fall damage, and can be climbed/walked on!)
 
 ![Net Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/net.png)
 
