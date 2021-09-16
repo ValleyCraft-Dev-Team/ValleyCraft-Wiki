@@ -2,7 +2,7 @@
 
 Lights for any and all occasions! *Note: We are not responsible for any burned down buildings that may occur.*
 
-_[Return to Main Page](https://l1nkl3.github.io/ValleyCraft/)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
 
 Redstone lanterns give off a signal just like regular Redstone Torches, but they can be hung up and also used underwater.
 
@@ -18,4 +18,4 @@ Braziers provide a nice, (mostly safe atmosphere while lighting up rooms effecti
 
 ![Display 3](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/light_display.png)
 
-_[Return to Main Page](https://l1nkl3.github.io/ValleyCraft/)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
