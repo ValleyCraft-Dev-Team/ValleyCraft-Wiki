@@ -2,6 +2,8 @@
 
 **New crops can be found scattered throughout the world, if you'd to find them on your own, don't scroll past the Soul Jack o'Lantern recipe.**
 
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/edit/gh-pages/index.md)_
+
 Turf:
 
 ![Turf Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/turf.png)
@@ -35,3 +37,5 @@ Soul Jack o'Lantern:
 * Rice Seedlings can be found sprouting in Dungeon chests.
 
 ![Crops](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/crops.png)
+
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/edit/gh-pages/index.md)_
