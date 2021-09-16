@@ -24,4 +24,13 @@ Fireplace Screens: (Prevent pets from falling into fires!)
 
 ![Screen Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/screen.png)
 
+Salt & Charcoal Blocks:
+
+![Salt & Charcoal Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/blocks.png)
+
+
+Polished Volcanic Stone, Polished Volcanic Stone (alt. recipe) & Smooth Stone:
+
+![Smooth & Polished Recipes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/cutting.png)
+
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
