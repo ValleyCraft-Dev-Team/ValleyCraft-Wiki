@@ -1,3 +1,5 @@
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_lights.png)
+
 ## Redstone Lanterns, Hanging Lanterns & Braziers
 
 Lights for any and all occasions! *Note: We are not responsible for any burned down buildings that may occur.*
