@@ -28,7 +28,7 @@ Soul Jack o'Lantern:
 
 ![Grass Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/soul.png)
 
-**Where to find the new crops.**
+## **Where to find the new crops.**
 
 * Spicy Berries are a heavily guarded treasure in Bastions.
 * Tomatos can be found growing high up in Shattered Savannas.
