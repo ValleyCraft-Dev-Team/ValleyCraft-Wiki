@@ -38,21 +38,18 @@ The Lumber Axe has twice the durability of an Iron Axe, but swings slower when a
 
 Sharpened Flint can be crafted as an emergency pickaxe in a tight pinch, it has a low durability can help you get back above ground if your tools break while mining.
 
-![Sickle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sickle.png)
+![Branch Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/stick.png)
 
 Branches will drop every now and then (half as commonly as apples) while your cutting trees and can make for a quick offensive or defensive measure. They break extremely quickly and do low damage, but it's better than just your fists. They can also be broken down into sticks.
 
-![Branch Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sickle.png)
+![Bundle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bundle.png)
 
 Arrow Bundles are handy when you need to pack light for an adventure but still need a surplus of arrows. Simply right click to break the bundle back down into 8 Arrows. Skeletons and Strays will now on occasion drop them too, as well as their skulls.
 
-![Bundle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bundle.png)
+![Bag Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bag.png)
 
 Bomb Bags can be found deep underground in abandoned mineshafts, right clicking them will give you some TNT. Always use with caution.
 
-![Bag Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bag.png)
-
-Soup Ladles make for quick cheap shovels, also my brain says it's funny to hit zombies with them, don't ask me why.
-
 ![Ladle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/ladle.png)
 
+Soup Ladles make for quick cheap shovels, also my brain says it's funny to hit zombies with them, don't ask me why.
