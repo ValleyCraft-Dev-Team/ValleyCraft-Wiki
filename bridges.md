@@ -8,9 +8,9 @@ Ropes:
 
 Alternate Fiber Recipes:
 
-![Fiber Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sugar_fiber.png)
+![Fiber Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sugar-fiber.png)
 
-![Fiber Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bamboo_fiber.png)
+![Fiber Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bamboo-fiber.png)
 
 Nets:
 
