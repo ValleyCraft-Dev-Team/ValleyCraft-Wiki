@@ -1,6 +1,6 @@
 ## Tools & Specialized Equipment
 
-ValleyCraft adds a variety of new equipment to aid in exploration and farming back at home. Starting with the first tool you will need, the **Knife**:
+ValleyCraft adds a variety of new equipment to aid in exploration and farming back at home. Starting with the first tool you will need, the Knife.
 
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
 
