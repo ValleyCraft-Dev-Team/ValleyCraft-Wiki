@@ -2,7 +2,7 @@
 
 A myriad of equipment useful for climbing, walking across, hanging things, and even tying Leads to! Careful not to fall!
 
-_[Return to Main Page](https://l1nkl3.github.io/ValleyCraft/)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
 
 Ropes: (Can be climbed, walked through, and walked on top of!)
 
@@ -34,4 +34,4 @@ Spike Trap: (Careful! These are incredibly sharp and will make quick work of mob
 
 ![Display_Rope 2](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/display_rope_2.png)
 
-_[Return to Main Page](https://l1nkl3.github.io/ValleyCraft/)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
