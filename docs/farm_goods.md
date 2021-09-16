@@ -2,7 +2,7 @@
 
 ## Farming Goods & Information
 
-**New crops can be found scattered throughout the world, if you'd to find them on your own, don't scroll past the Soul Jack o'Lantern recipe.**
+**New crops can be found scattered throughout the world, if you'd like to find them on your own, don't scroll past the Soul Jack o'Lantern recipe.**
 
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
 
