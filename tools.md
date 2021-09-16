@@ -2,6 +2,8 @@
 
 ValleyCraft adds a variety of new equipment to aid in exploration and farming back at home. Starting with the first tool you will need, the **Knife**:
 
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/edit/gh-pages/index.md)_
+
 Knives can be made with any vanilla tool material (i.e. Iron, Stone, et cetera) as well as upgraded to Netherite with a [Smithing Table](https://minecraft.fandom.com/wiki/Smithing_Table) much like any other Diamond gear. Knives cut through Grass and Tall Grass dropping **Plant Fiber**.
 
 ![Knife Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/knife.png)
@@ -53,3 +55,5 @@ Bomb Bags can be found deep underground in abandoned mineshafts, right clicking 
 Soup Ladles make for quick cheap shovels, also my brain says it's funny to hit zombies with them, don't ask me why.
 
 ![Ladle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/ladle.png)
+
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/edit/gh-pages/index.md)_
