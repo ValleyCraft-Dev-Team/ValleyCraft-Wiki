@@ -38,7 +38,7 @@ The Lumber Axe has twice the durability of an Iron Axe, but swings slower when a
 
 ![Lumber Axe Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/lumber.png)
 
-Sharpened Flint can be crafted as an emergency pickaxe in a tight pinch, it has a low durability can help you get back above ground if your tools break while mining.
+Sharpened Flint can be crafted as an emergency pickaxe in a tight pinch, it has a low durability but it can help you get back above ground if your tools break while mining.
 
 ![Rock Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/rock.png)
 
