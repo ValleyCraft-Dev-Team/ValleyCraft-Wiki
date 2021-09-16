@@ -1,4 +1,4 @@
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_loot.png
+![Exploration, Loot & Gameplay Changes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_loot.png)
 
 ## Exploration, Loot & Gameplay Changes
 
