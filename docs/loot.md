@@ -2,7 +2,7 @@
 
 ## Exploration, Loot & Gameplay Changes
 
-ValleyCraft add several new loot items to the mix, so if you don't want any spoilers, turn back now!
+ValleyCraft adds several new loot items to the mix, so if you don't want any spoilers, turn back now!
 
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
 
