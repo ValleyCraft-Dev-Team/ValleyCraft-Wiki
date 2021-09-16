@@ -38,7 +38,7 @@ The Lumber Axe has twice the durability of an Iron Axe, but swings slower when a
 
 Sharpened Flint can be crafted as an emergency pickaxe in a tight pinch, it has a low durability can help you get back above ground if your tools break while mining.
 
-![Branch Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/stick.png)
+![Branch Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sticks.png)
 
 Branches will drop every now and then (half as commonly as apples) while your cutting trees and can make for a quick offensive or defensive measure. They break extremely quickly and do low damage, but it's better than just your fists. They can also be broken down into sticks.
 
