@@ -1,10 +1,10 @@
 ## Furniture & Miscellaneous Recipes
 
-Tables:
+Tables: (All wood types and a stone variant.)
 
 ![Table](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/table.png)
 
-Stools:
+Stools: (All wood types and a stone variant.)
 
 ![Stool Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/stool.png)
 
