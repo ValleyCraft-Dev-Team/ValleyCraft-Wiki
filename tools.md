@@ -10,4 +10,24 @@ Plant Fiber is used to make **Rope**, the a vital item in many recipes, such as 
 
 ![Rope Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/rope.png)
 
+![Sickle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sickle.png)
 
+Sickles work like hoes, but they also make a good weapon in a pinch, they swing a bit slower than their counterpart, but deal more damage in return.
+
+![Hatchet Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/hatchet.png)
+
+Hatchets, the friendly pocket-sized varient of axes. They swing faster but do a bit less damage.
+
+![Lumber Axe Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/lumber.png)
+
+The Lumber Axe has twice the durability of an Iron Axe, but swings slower when attacking.
+
+![Rock Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/rock.png)
+
+Sharpened Flint can be crafted as an emergency pickaxe in a tight pinch, it has a low durability can help you get back above ground if your tools break while mining.
+
+![Sickle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sickle.png)
+
+Branches will drop every now and then (half as commonly as apples) while your cutting trees and can make for a quick offensive or defensive measure. They break extremely quickly and do low damage, but it's better than just your fists. They can also be broken down into sticks.
+
+![Branch Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sickle.png)
