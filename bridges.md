@@ -6,6 +6,12 @@ Ropes:
 
 ![Rope Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/rope.png)
 
+Alternate Fiber Recipes:
+
+![Fiber Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/sugar_fiber.png)
+
+![Fiber Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/bamboo_fiber.png)
+
 Nets:
 
 ![Net Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/net.png)
