@@ -31,7 +31,7 @@ Here you will find all the various information you will need for ValleyCraft on 
 * Fabric API: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/)
 * ValleyCraft: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/valleycraft)
 * ValleyCraft: [Modrinth](https://modrinth.com/mod/valleycraft)
-* Lingering Powder Addon: [CurseForge]()
+* Lingering Powder Addon: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/valleycraft-addon-lingering-powder)
 * Lingering Powder Addon: [Modrinth](https://modrinth.com/mod/valleycraft-addon-lingering-powder)
 
 ## Don't Forget to add the Fabric API to your mods folder w/ your installation of Fabric!
