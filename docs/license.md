@@ -1,4 +1,4 @@
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_library.png)
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_library_new.png)
 
 ## Mod/Modpacking License
 
