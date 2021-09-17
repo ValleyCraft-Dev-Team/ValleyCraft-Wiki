@@ -17,6 +17,7 @@ Here you will find all the various information you will need for ValleyCraft on 
 * [Redstone Lanterns, Hanging Lanterns & Braziers](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/lights.md)
 * [Furniture & Miscellaneous Recipes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/misc.md)
 * [Exploration, Loot & Gameplay Changes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/loot.md)
+* [Lingering Powder Addon Guide](https://github.com/l1nkl3/ValleyCraft-Wiki/blob/gh-pages/docs/potion.md)
 * [Update Log](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/update.md)
 * [Mod/Modpacking License](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/license.md)
 
@@ -30,6 +31,8 @@ Here you will find all the various information you will need for ValleyCraft on 
 * Fabric API: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/)
 * ValleyCraft: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/valleycraft)
 * ValleyCraft: [Modrinth](https://modrinth.com/mod/valleycraft)
+* Lingering Powder Addon: [CurseForge]()
+* Lingering Powder Addon: [Modrinth](https://modrinth.com/mod/valleycraft-addon-lingering-powder)
 
 ## Don't Forget to add the Fabric API to your mods folder w/ your installation of Fabric!
 
