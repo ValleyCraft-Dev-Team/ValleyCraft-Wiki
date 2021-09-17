@@ -22,8 +22,8 @@ Here you will find all the various information you will need for ValleyCraft on 
 * [Mod/Modpacking License](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/license.md)
 
 ## Would you like to suggest a feature or report a bug?
-* [Report Bugs](https://docs.google.com/forms/d/1S_4cj_lOQYHhpOkUtYO4aLKt_djE2MYwI45i03fNmrc/prefill)
-* [Suggest Features](https://docs.google.com/forms/d/1_sepGtRtqZb3-ViJBneQrDf5R0ZT0G_KwHdOn8xRmpo/prefill)
+* [Report Bugs](https://github.com/l1nkl3/ValleyCraft-Wiki/issues)
+* [Suggest Features](https://github.com/l1nkl3/ValleyCraft-Wiki/issues)
 
 ## Download Links:
 
