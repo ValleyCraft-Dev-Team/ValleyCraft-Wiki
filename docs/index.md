@@ -29,7 +29,7 @@ Here you will find all the various information you will need for ValleyCraft on 
 
 ## Download Links:
 
-* Fabric:[link](https://fabricmc.net/use/)
+* Fabric Launcher: [Website](https://fabricmc.net/use/)
 * Fabric API: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/)
-* ValleyCraft[CurseForge](https://www.curseforge.com/minecraft/mc-mods/valleycraft)
-* ValleyCraft [Modrinth](https://modrinth.com/mod/valleycraft)
+* ValleyCraft: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/valleycraft)
+* ValleyCraft: [Modrinth](https://modrinth.com/mod/valleycraft)
