@@ -25,6 +25,8 @@ Here you will find all the various information you will need for ValleyCraft on 
 * [Report Bugs](https://github.com/l1nkl3/ValleyCraft-Wiki/issues)
 * [Suggest Features](https://github.com/l1nkl3/ValleyCraft-Wiki/issues)
 
+## [Follow me/updates to the mod on Twitter! @LinkleModding](https://twitter.com/LinkleModding)
+
 ## Download Links:
 
 * Fabric Launcher: [Website](https://fabricmc.net/use/)
