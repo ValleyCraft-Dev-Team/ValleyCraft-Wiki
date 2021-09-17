@@ -24,12 +24,12 @@ Here you will find all the various information you will need for ValleyCraft on 
 * [Report Bugs](https://docs.google.com/forms/d/1S_4cj_lOQYHhpOkUtYO4aLKt_djE2MYwI45i03fNmrc/prefill)
 * [Suggest Features](https://docs.google.com/forms/d/1_sepGtRtqZb3-ViJBneQrDf5R0ZT0G_KwHdOn8xRmpo/prefill)
 
-## Don't Forget to add the Fabric API to your mods folder w/ your installation of Fabric!
-
-
 ## Download Links:
 
 * Fabric Launcher: [Website](https://fabricmc.net/use/)
 * Fabric API: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/)
 * ValleyCraft: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/valleycraft)
 * ValleyCraft: [Modrinth](https://modrinth.com/mod/valleycraft)
+
+## Don't Forget to add the Fabric API to your mods folder w/ your installation of Fabric!
+
