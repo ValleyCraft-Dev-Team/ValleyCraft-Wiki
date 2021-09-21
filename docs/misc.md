@@ -30,10 +30,29 @@ Stew Pot:
 
 ![Stew Pot Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/stew_pot.png)
 
+Campfire Stew Pot:
+
+![Campfire Stew Pot Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/campfirestewpot.png)
+
+Chimney: (The inside is climbable!)
+
+![Chimney Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/chimney.png)
+
+Carmine:
+
+![Carmine](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/carmine.png)
+
+Snowy Bush:
+
+![Bush](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/snowybush.png)
+
+Snowy Rocks:
+
+![Rocks](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/snowyrocks.png)
+
 Salt & Charcoal Blocks:
 
 ![Salt & Charcoal Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/blocks.png)
-
 
 Polished Volcanic Stone, Polished Volcanic Stone (alt. recipe) & Smooth Stone:
 
