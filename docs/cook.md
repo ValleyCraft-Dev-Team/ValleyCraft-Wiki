@@ -15,13 +15,25 @@ Small Mug, Fern Tea, Bitter Berry Tea, Sweet Berry Tea, Hot Cocoa
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/tea.png)
 
+Miner's Tea, Dandelion Tea (1.2+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/teas_2.png)
+
 Mug, Mead, Sweet Berry Cyser, Bitter Berry Cyser, Apple Cyser, Spicy Berry Cyser
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/mead.png)
 
+Chocolate Cyser (1.2+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/mead_2.png)
+
 Spicy Berry Wine, Sweet Berry Wine, Chorus Fruit Wine
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/wine.png)
+
+Bitter Berry Wine (1.2+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/wine_3.png)
 
 Milk Bottles, Tomato Juice, Apple Juice, Bottle of Pumpkin Soup
 
@@ -59,11 +71,27 @@ Cake, Cake Slices, Pumpkin Pie, Apple Pie, Bread, Cookie
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/stove.png)
 
+## Breakfast Foods
+
+Raw Bacon, Cooked Bacon, Pancake Dough, Bacon Breakfast, Pancake, Bacon & Eggs, Pancake Breakfast, Large Pancake Breakfast (1.2+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/breakfast.png)
+
 ## Misc. Recipes
 
 Crystalized Honey, Honeycomb Chunks, Frozen Slime, Fruit Skewer, Monster Jerky, Golden Fruit Skewer, Cooked Pumpkin Seeds
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/misc.png)
+
+Stuffed Onions, Baked Apple, Poke Bowl, Miner's Salad, Stuffed Baked Potato, Mushroom Salad, Chocolate Milk (1.2+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/misc_2.png)
+
+## Wolf Foods! (You can eat these too! ^-^ )
+
+Wolf Kibble, Wolf Biscuits
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/dogs.png)
 
 ## Not seeing an item you'd like to cook? Send it to my suggestions inbox!
 I'm always looking for more recipes to add, so send me your suggestions! <3
