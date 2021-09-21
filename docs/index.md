@@ -36,6 +36,10 @@ Here you will find all the various information you will need for ValleyCraft on 
 * Lingering Powder Addon: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/valleycraft-addon-lingering-powder)
 * Lingering Powder Addon: [Modrinth](https://modrinth.com/mod/valleycraft-addon-lingering-powder)
 
+## Discord Server:
+
+<iframe src="https://discord.com/widget?id=889791252462182440&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ## Don't Forget to add the Fabric API to your mods folder w/ your installation of Fabric!
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/niconicokneecaps.png)
