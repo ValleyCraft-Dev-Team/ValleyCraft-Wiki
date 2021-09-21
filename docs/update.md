@@ -9,7 +9,7 @@ V. 1.1 - Release Day Hot Fix
   * Fixed an error that prevented the game from loading.
 
 V. 1.2 - 
-  * ***Fixed the stick texture back to vanilla**
+  * ***Fixed the stick texture back to vanilla***
   * Fixed the mud block texture
   * Fixed the mud block recipes
   * Fixed the Wooden Sickle recipe
