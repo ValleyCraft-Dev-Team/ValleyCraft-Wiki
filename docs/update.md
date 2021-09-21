@@ -15,6 +15,7 @@ V. 1.2 -
   * Fixed the Wooden Sickle recipe
   * Fixed the Saltpeter texture
   * Fixed Branch droprate
+  * Overhauled worldgen.
   * Added:
      * Rose Gold Tools
      * Traveler's Sword
