@@ -30,7 +30,7 @@ Soul Jack o'Lantern:
 
 ![Grass Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/soul.png)
 
-## How to grow Cattails, Moss Carpet, and Moss Vines.
+## How to grow Cattails, Moss Carpet, and Moss Vines. (1.2+)
 
 Moss Vines and Carpet will naturally grow on Mossy Stone and Mossy Carmine over time, on the bottom and top respectively.
 Cattails require a bit more work though; Find some mud, click on it using bonemeal with the RMB, and put water above it. It will eventually grow Cattails from the Muddy Roots that have formed. These can be cut and replanted anywhere with a water block over it.
@@ -47,15 +47,15 @@ Cattails require a bit more work though; Find some mud, click on it using boneme
 
 ![Crops](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/crops.png)
 
-* Miner's Lettuce can be found in Taiga biomes without snow.
-* Onions can be found in Mountain Ranges
+* Miner's Lettuce can be found in Taiga biomes without snow. (1.2+)
+* Onions can be found in Mountain Ranges. (1.2+)
 
 ![Crops 2](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/farm_new_1.png)
 
-* Wild Wheat can be found in Plains.
-* Wild Carrots can be found in Dark Forests.
-* Wild Beets can be found in Birch Forests.
-* Wild Potatos can be found in Jungles
+* Wild Wheat can be found in Plains. (1.2+)
+* Wild Carrots can be found in Dark Forests. (1.2+)
+* Wild Beets can be found in Birch Forests. (1.2+)
+* Wild Potatos can be found in Jungles. (1.2+)
 
 ![Crops 3](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/farm_new_2.png)
 
