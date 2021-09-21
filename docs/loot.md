@@ -18,13 +18,22 @@ _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/
 * **Shipwrecks** now have Anchors, and Golden Chalices.
 
 ## WorldGen
-*  **Mud**, **Mixed Ore**, **Salt Ore**, and **Saltpeter Ore** can now be found in all biomes.
-* **Volcanic Ash** and **Volcanic Stone** can now be found deep in the heart of jungles.
+*  **Mud**, **Mixed Ore**, **Scalding Stone**, **Salt Ore**, and **Saltpeter Ore** can now be found in all biomes. (1/2+)
+* **Volcanic Ash**, **Volcanic Stone**, **Scalding Volcanic Stone**, **Carmine**, and **Mossy Carmine**, can now be found deep in the heart of jungles. (1/2+)
 * **Salt Ore** and **Coal Ore** can now be found throughout the Nether.
 * **Small Cacti** and **Tumbleweeds** can now be found in dry biomes, such as deserts and mesas.
+* **Desert Gravel, Red Sand, Sand, Scalding Sandstone, Sandstone,** and **Red Sandstone** can be found underground in dry biomes. (1/2+)
 * **Fern, Peony, Lilac,** and **Rose Bushes** can be found in their respective biome types that match with their larger counterparts.
 * **Tomato Bushes** can be found growing in shattered plateaus.
 * **Bitter Berry Bushes** can be found growing in jungles.
+* **Wild Crops** can be found growing in [different biomes](https://github.com/l1nkl3/ValleyCraft-Wiki/blob/gh-pages/docs/farm_goods.md). (1/2+)
+* **Ice, Packed Ice, Snow,** and **Powdered Snow** can be found underground in snowy/frozen biomes. (1/2+)
+* **Grimestone** can be found underground in Swamps. (1/2+)
+* **Marinite** can be found underground in Oceans. (1/2+)
+* **Verdantine** can be found in Taiga biomes. (1/2+)
+* **Diabase** can be found underground in Dark Forests. (1/2+)
+
+![Blocks](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/world_new_1.png)
 
 ## Mod compatibility info:
 For the sake of compatibility with other mods, the following loot tables have been changed:
