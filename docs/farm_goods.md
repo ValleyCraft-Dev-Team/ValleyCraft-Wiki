@@ -2,7 +2,7 @@
 
 ## Farming Goods & Information
 
-**New crops can be found scattered throughout the world, if you'd like to find them on your own, don't scroll past the Soul Jack o'Lantern recipe.**
+**New crops can be found scattered throughout the world, if you'd like to find them on your own, don't scroll past how to grow Cattails.**
 
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
 
@@ -30,6 +30,13 @@ Soul Jack o'Lantern:
 
 ![Grass Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/soul.png)
 
+## How to grow Cattails, Moss Carpet, and Moss Vines.
+
+Moss Vines and Carpet will naturally grow on Mossy Stone and Mossy Carmine over time, on the bottom and top respectively.
+Cattails require a bit more work though; Find some mud, click on it using bonemeal with the RMB, and put water above it. It will eventually grow Cattails from the Muddy Roots that have formed. These can be cut and replanted anywhere with a water block over it.
+
+![Cattail Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/farm_new_3.png)
+
 ## **Where to find the new crops.**
 
 * Spicy Berries are a heavily guarded treasure in Bastions.
@@ -39,5 +46,17 @@ Soul Jack o'Lantern:
 * Rice Seedlings can be found sprouting in Dungeon chests.
 
 ![Crops](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/crops.png)
+
+* Miner's Lettuce can be found in Taiga biomes without snow.
+* Onions can be found in Mountain Ranges
+
+![Crops 2](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/farm_new_1.png)
+
+* Wild Wheat can be found in Plains.
+* Wild Carrots can be found in Dark Forests.
+* Wild Beets can be found in Birch Forests.
+* Wild Potatos can be found in Jungles
+
+![Crops 3](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/farm_new_2.png)
 
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
