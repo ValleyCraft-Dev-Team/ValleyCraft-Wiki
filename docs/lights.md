@@ -18,7 +18,7 @@ Braziers provide a nice, (mostly safe atmosphere while lighting up rooms effecti
 
 ![Brazier Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/brazier.png)
 
-Copper Braziers give off a Green flame!
+Copper Braziers give off a Green flame! (1.2+)
 
 ![Brazier Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/copper_brazier.png)
 
