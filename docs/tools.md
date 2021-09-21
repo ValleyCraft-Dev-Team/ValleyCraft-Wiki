@@ -27,6 +27,7 @@ Golden tools can be combined with Copper in a [Smithing Table](https://minecraft
 ![Rose Gold Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/rosegold.png)
 
 The Traveler's Sword is made with an Iron Sword and Netherite Scrap. It has 3x the durability of an Iron Sword, 10.5 attack damage, and 1.8 attack speed. However, it's also unenchantable.
+
 ![Traveler Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/traveler.png)
 
 Iron Ladders are strong enough to stand on their own, and they can withstand a decent blast!
