@@ -51,3 +51,8 @@ V. 1.2 -
      * Sprout
      * Cobblestone Chimney
      * Dandelion Tea, Miner's Tea, Chocolate Cyser, Chocolate Milk, Bitter Berry Wine, Mushroom Salad, Miner's Salad, Bacon & Eggs, Bacon Breakfast, Pancake Breakfast, Large Pancake Breakfast, Poke Bowl, Pancake Dough, Pancake, Baked Apple, Stuffed Onion, Stuffed Baked Potato, Raw Bacon, Bacon, Wolf Biscuit, Wolf Kibble,
+
+V. 1.2 - 
+ *  Fixed food saturation and hunger levels
+ *  Fixed ice, snow, packed ice, and blue ice generation in the Ice Spikes
+ *  Fixed pickaxe, shovel, flower (item), and flower (block) tags
