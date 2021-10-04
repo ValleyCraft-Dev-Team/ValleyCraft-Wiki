@@ -20,6 +20,7 @@ Here you will find all the various information you will need for ValleyCraft on 
 * [Lingering Powder Addon Guide](https://github.com/l1nkl3/ValleyCraft-Wiki/blob/gh-pages/docs/potion.md)
 * [Update Log](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/update.md)
 * [Mod/Modpacking License](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/license.md)
+* [Attribution/Special Thanks](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/thanks.md)
 
 ## Would you like to suggest a feature or report a bug?
 * [Report Bugs](https://github.com/l1nkl3/ValleyCraft-Wiki/issues)
