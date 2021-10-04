@@ -1,4 +1,4 @@
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_mabon.jpg)
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_mabon.png)
 
 ## Welcome to the ValleyCraft wiki!
 
