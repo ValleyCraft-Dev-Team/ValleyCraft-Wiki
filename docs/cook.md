@@ -35,7 +35,7 @@ Bitter Berry Wine (1.2+)
 
 ![](../wiki-images/wine_3.png)
 
-Milk Bottles, Tomato Juice, Apple Juice, Bottle of Pumpkin Soup
+Milk Bottles, Tomato Juice, Apple Juice, Bottle of Pumpkin Soup, Beetroot Juice, Carrot Juice
 
 ![](../wiki-images/juice.png)
 
