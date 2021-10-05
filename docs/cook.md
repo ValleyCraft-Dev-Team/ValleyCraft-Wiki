@@ -49,7 +49,7 @@ Rice Bowl, Tropical Fish Salad, Corn Porridge, Beef Stew, Rabbit Bigo, Lamb Biry
 
 ![](../wiki-images/bowl_2.png)
 
-Cod Chowder, Full Breakfast, Spicy Chicken Curry, Amaranth Pancake Breakfast, Amaranth Porridge, Grub
+Cod Chowder, Full Breakfast, Spicy Chicken Curry, Grub
 
 ![](../wiki-images/bowl_4.png)
 
@@ -75,7 +75,11 @@ Cake, Cake Slices, Pumpkin Pie, Apple Pie, Bread, Cookie
 
 Raw Bacon, Cooked Bacon, Pancake Dough, Bacon Breakfast, Pancake, Bacon & Eggs, Pancake Breakfast, Large Pancake Breakfast (1.2+)
 
-![](../wiki-images/breakfast.png)
+![](../wiki-images/breakfast_1.png)
+
+Amaranth Pancake Breakfast, Amaranth Porridge (1.3+)
+
+![](../wiki-images/breakfast_2.png)
 
 ## Misc. Recipes
 
