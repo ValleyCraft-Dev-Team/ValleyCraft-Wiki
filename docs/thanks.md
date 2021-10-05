@@ -1,4 +1,4 @@
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_thanks.png)
+![](../wiki-images/banner_thanks.png)
 
 ## Credit, Attribution, and Special Thanks goes to:
 
@@ -6,4 +6,4 @@
 * Chuunkyz for honestly more than I can list.
 * All of the wonderful people on the Fabric Discord who made this all possible.
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
+_[Return to Main Page](index.md)_
