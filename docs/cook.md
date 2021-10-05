@@ -49,7 +49,7 @@ Rice Bowl, Tropical Fish Salad, Corn Porridge, Beef Stew, Rabbit Bigo, Lamb Biry
 
 ![](../wiki-images/bowl_2.png)
 
-Cod Chowder, Full Breakfast, Spicy Chicken Curry
+Cod Chowder, Full Breakfast, Spicy Chicken Curry, Amaranth Pancake Breakfast, Amaranth Porridge, Grub
 
 ![](../wiki-images/bowl_4.png)
 
