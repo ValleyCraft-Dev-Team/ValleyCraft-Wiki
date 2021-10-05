@@ -4,7 +4,7 @@
 
 A myriad of equipment useful for climbing, walking across, hanging things, and even tying Leads to! Careful not to fall!
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_
 
 Ropes: (Can be climbed, walked through, and walked on top of!)
 
@@ -38,4 +38,4 @@ Spike Trap: (Careful! These are incredibly sharp and will make quick work of mob
 
 ![Display_Spikes](../wiki-images/spikes_display.png)
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_

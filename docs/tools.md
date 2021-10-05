@@ -4,13 +4,13 @@
 
 ValleyCraft adds a variety of new equipment to aid in exploration and farming back at home. Starting with the first tool you will need, the Knife.
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_
 
 Knives can be made with any vanilla tool material (i.e. Iron, Stone, et cetera) as well as upgraded to Netherite with a [Smithing Table](https://minecraft.fandom.com/wiki/Smithing_Table) much like any other Diamond gear. Knives cut through Grass and Tall Grass dropping **Plant Fiber**.
 
 ![Knife Crafting Recipe](../wiki-images/knife.png)
 
-Plant Fiber is used to make **Rope**, a vital item in many recipes such as [**Rope Bridges**, **Spike Traps,** **Nets**,](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/bridges.md) and [**Braziers**.](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/lights.md)
+Plant Fiber is used to make **Rope**, a vital item in many recipes such as [**Rope Bridges**, **Spike Traps,** **Nets**,](bridges.md) and [**Braziers**.](lights.md)
 
 ![Rope Crafting Recipe](../wiki-images/rope.png)
 
@@ -66,4 +66,4 @@ Soup Ladles make for quick cheap shovels, also my brain says it's funny to hit z
 
 ![Ladle Crafting Recipe](../wiki-images/ladle.png)
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_

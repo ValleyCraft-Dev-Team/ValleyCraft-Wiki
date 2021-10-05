@@ -4,7 +4,7 @@
 
 Tables, stools, beveled windows, and more!
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_
 
 Tables: (All wood types and a stone variant.)
 
@@ -58,4 +58,4 @@ Polished Volcanic Stone, Polished Volcanic Stone (alt. recipe) & Smooth Stone:
 
 ![Smooth & Polished Recipes](../wiki-images/cutting.png)
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_

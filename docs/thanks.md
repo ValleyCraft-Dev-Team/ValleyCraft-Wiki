@@ -6,4 +6,4 @@
 * Chuunkyz for honestly more than I can list.
 * All of the wonderful people on the Fabric Discord who made this all possible.
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_

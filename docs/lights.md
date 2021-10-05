@@ -4,7 +4,7 @@
 
 Lights for any and all occasions! *Note: We are not responsible for any burned down buildings that may occur.*
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_
 
 Redstone lanterns give off a signal just like regular Redstone Torches, but they can be hung up and also used underwater.
 
@@ -24,4 +24,4 @@ Copper Braziers give off a Green flame! (1.2+)
 
 ![Display 3](../wiki-images/light_display.png)
 
-_[Return to Main Page](index.md)_
+_[Return to Main Page](README.md)_
