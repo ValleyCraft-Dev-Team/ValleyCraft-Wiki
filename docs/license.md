@@ -6,4 +6,4 @@ Do not port to Forge, future versions of Fabric or use the existing assets for y
 
 Note: if I am inactive for two major game updates (i.e. 1.18 and 1.19, not 1.17.1 and 1.17.2) then you can port this mod to future versions of Fabric. But not Forge because #### Forge.
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
