@@ -37,6 +37,14 @@ Cattails require a bit more work though; Find some mud, click on it using boneme
 
 ![Cattail Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/farm_new_3.png)
 
+Planters can hold any flower blocks as well as some smaller crops like onions, and even tree saplings!
+
+![Planter](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/planter.png)
+
+Some misc. recipes: Amaranth Seeds, Single Roses, Lavender Sprigs, and Ice Roses
+
+![Amaranth](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/plants.png)
+
 ## **Where to find the new crops.**
 
 * Spicy Berries are a heavily guarded treasure in Bastions.
