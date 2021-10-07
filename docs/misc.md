@@ -58,4 +58,16 @@ Polished Volcanic Stone, Polished Volcanic Stone (alt. recipe) & Smooth Stone:
 
 ![Smooth & Polished Recipes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/cutting.png)
 
+New shelf variants for every occasion! Cobweb'ed variants of all the shelves can be made by adding a cobweb.
+
+![Shelves](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/shelfs.png)
+
+Crystal Balls that are overflowing with runes are perfect for any witchy occasion.
+
+![Rune](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/ball.png)
+
+Carmine can be made into a variety of bricks.
+
+![Carmine](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/carmine.png)
+
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
