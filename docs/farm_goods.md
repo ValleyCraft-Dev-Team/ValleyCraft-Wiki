@@ -4,7 +4,7 @@
 
 **New crops can be found scattered throughout the world, if you'd like to find them on your own, don't scroll past how to grow Cattails.**
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
 
 Turf:
 
@@ -59,4 +59,4 @@ Cattails require a bit more work though; Find some mud, click on it using boneme
 
 ![Crops 3](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/farm_new_2.png)
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
