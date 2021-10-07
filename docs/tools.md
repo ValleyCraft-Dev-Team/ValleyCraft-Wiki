@@ -66,4 +66,12 @@ Soup Ladles make for quick cheap shovels, also my brain says it's funny to hit z
 
 ![Ladle Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/ladle.png)
 
+Witch's Wands, Daggers, and Staffs make for effective weapons, and can also magically turn grass into soil.
+
+![Witchs](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/witch.png)
+
+Tongs are used to collect Ice blocks of all types.
+
+![Tongs](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/tongs.png)
+
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
