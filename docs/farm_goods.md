@@ -52,6 +52,7 @@ Some misc. recipes: Amaranth Seeds, Single Roses, Lavender Sprigs, and Ice Roses
 * Corn can be found in Jungle Temples.
 * Bitter Berries grow anywhere Podzol can be found.
 * Rice Seedlings can be found sprouting in Dungeon chests.
+* Amaranth can be found in Jungle Temples.
 
 ![Crops](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/crops.png)
 
