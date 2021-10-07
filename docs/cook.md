@@ -5,7 +5,7 @@
 Everything from Hot Cocoa to Cod Chowder and Sushi await you in this kitchen! I recommend reading through the recipes yourself, so you can learn how to cook everything.
 Some food items have special effects, such as a giving you Strength or Fire Resistance for a short time! Careful though! Although the alcoholic items are strong and have positive effects, they also come with some nasty side effects!
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
 
 (All are listed in numerical order, from left to right.)
 
@@ -96,4 +96,4 @@ Wolf Kibble, Wolf Biscuits
 ## Not seeing an item you'd like to cook? Send it to my suggestions inbox!
 I'm always looking for more recipes to add, so send me your suggestions! <3
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
