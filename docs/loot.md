@@ -4,7 +4,7 @@
 
 ValleyCraft adds several new loot items to the mix, so if you don't want any spoilers, turn back now!
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
 
 ## Mobs
 
@@ -43,4 +43,4 @@ For the sake of compatibility with other mods, the following loot tables have be
 * simple_dungeon.json (The Small Cobblestone Dungeons)
 * shipwreck_supply.json (Shipwrecks)
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/index.md)_
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
