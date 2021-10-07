@@ -1,5 +1,7 @@
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_update.png)
 
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
+
 ## Update Log
 
 V. 1.0 - Initial Release
@@ -80,3 +82,5 @@ V. 1.3.1 -
   *  All ore gen such as powdered snow will appear in Ice Spikes biomes properly now.
   *  Puppy Pumpkin Treats are craftable now.
   *  Glistering Juice is also craftable again.
+
+_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
