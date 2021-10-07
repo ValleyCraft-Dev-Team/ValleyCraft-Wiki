@@ -83,4 +83,8 @@ V. 1.3.1 -
   *  Puppy Pumpkin Treats are craftable now.
   *  Glistering Juice is also craftable again.
 
+V. 1.3.2. -
+
+  * Fixed the Chiseled Carmine recipe.
+
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
