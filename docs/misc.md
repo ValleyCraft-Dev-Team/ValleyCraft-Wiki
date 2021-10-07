@@ -38,10 +38,6 @@ Chimney: (The inside is climbable!)
 
 ![Chimney Crafting Recipe](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/chimney.png)
 
-Carmine:
-
-![Carmine](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/carmine.png)
-
 Snowy Bush:
 
 ![Bush](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/snowybush.png)
