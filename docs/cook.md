@@ -37,7 +37,20 @@ Bitter Berry Wine (1.2+)
 
 Milk Bottles, Tomato Juice, Apple Juice, Bottle of Pumpkin Soup
 
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/juice_orig.png)
+
+Suspicious Juice, Carrot Juice, Beet Juice (1.3+)
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/juice.png)
+
+## Golden Food Items
+
+Glistering Juice (1.3+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/glistering_juice.png)
+
+Golden Beet, Potato, Onion, Tomato, Honeycomb, Spicy Berries, Kelp, Sweet Berries, Bitter Berries (1.3+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/golden.png)
 
 ## Soups & Main Dishes
 
@@ -77,6 +90,10 @@ Raw Bacon, Cooked Bacon, Pancake Dough, Bacon Breakfast, Pancake, Bacon & Eggs, 
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/breakfast.png)
 
+Amaranth Porridge, Amaranth Pancake Dough, Amaranth Pancakes, Amaranth Pancake Breakfast. (1.3+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/amaranth.png)
+
 ## Misc. Recipes
 
 Crystalized Honey, Honeycomb Chunks, Frozen Slime, Fruit Skewer, Monster Jerky, Golden Fruit Skewer, Cooked Pumpkin Seeds
@@ -87,9 +104,13 @@ Stuffed Onions, Baked Apple, Poke Bowl, Miner's Salad, Stuffed Baked Potato, Mus
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/misc_2.png)
 
+Grub, Drumsticks, Skeleton Cookie Dough, Skeleton Cookies, Puppy Pumpkin Treats (1.3+)
+
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/even_more_misc.png)
+
 ## Wolf Foods! (You can eat these too! ^-^ )
 
-Wolf Kibble, Wolf Biscuits
+Wolf Kibble, Wolf Biscuits, (Puppy Pumpkin Treats are made for wolves too! The recipe is right above this. <3)
 
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/dogs.png)
 
