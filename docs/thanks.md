@@ -4,6 +4,7 @@
 
 * [SaltySeaDoggo](https://www.curseforge.com/members/saltseadoggo/projects) for the Rose and Ice Rose textures, as well as naming items.
 * Chuunkyz for honestly more than I can list.
+* AndEditor7 for the amazing Apple Tree generator.
 * All of the wonderful people on the Fabric Discord who made this all possible.
 
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
