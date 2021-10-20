@@ -1,9 +1,5 @@
 ![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_library_new.png)
 
-Do not port to Forge, future versions of Fabric or use the existing assets for your own mods. You are welcome to use this in Modpacks, but please give credit <3 Thanks!
-
-Note: if I am inactive for two major game updates (i.e. 1.18 and 1.19, not 1.17.1 and 1.17.2) then you can port this mod to future versions of Fabric. But not Forge because #### Forge.
-
-Reposting/rehosting this mod on ANY site will result in a DMCA takedown and legal action. So don't do it.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
