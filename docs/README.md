@@ -8,10 +8,6 @@ ValleyCraft is a farming and cooking overhaul mod with a focus on exploration an
 
 Here you will find all the various information you will need for ValleyCraft on Fabric. Click [here](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/tools.md) to get started from the very beginning!
 
-## Update/Notice!
-
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/notice.png)
-
 ## Index:
 
 * [Farm Goods & Information](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/farm_goods.md)
