@@ -1,8 +1,10 @@
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_mabon.png)
+![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_update_2.0.png)
 
 ## Welcome to the ValleyCraft wiki!
 
-**ValleyCraft 1.2.1** has finally been released! (Download links are at the bottom of this page)
+**ValleyCraft 2.0** has finally been released! (Download links are at the bottom of this page)
+
+**THE WIKI WILL BE UPDATED SOON**
 
 ValleyCraft is a farming and cooking overhaul mod with a focus on exploration and discovery. It's heavily inspired by Stardew Valley as well as Animal Crossing and Harvest Moon, adding everything from Sickles to Scarecrows and Rope Bridges, as well as over 50 new cooking recipes. Some dishes will even give special effects such as extra hearts or increased strength for a while after eating or drinking them!
 
