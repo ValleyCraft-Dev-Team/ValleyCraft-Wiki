@@ -8,4 +8,8 @@
 * OliviaTheVampire for wonderful block textures such as Nether Coal Ore.
 * All of the wonderful people on the Fabric Discord who made this all possible.
 
+## Sound Attributions:
+* [Duck Quack](https://freesound.org/people/qubodup/sounds/442820/) By **qubodup**
+Licensed Under [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/)
+
 _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
