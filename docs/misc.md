@@ -1,4 +1,4 @@
-![](../banner_furniture.png)
+![](../wiki-images/banner_furniture.png)
 
 ## Furniture & Miscellaneous Recipes
 
@@ -8,62 +8,62 @@ _[Return to Main Page](README.md)_
 
 Tables: (All wood types and a stone variant.)
 
-![Table](../table.png)
+![Table](../wiki-images/table.png)
 
 Stools: (All wood types and a stone variant.)
 
-![Stool Crafting Recipe](../stool.png)
+![Stool Crafting Recipe](../wiki-images/stool.png)
 
 Rounded Barrel:
 
-![Rounded Barrel Crafting Recipe](../rounded_barrel.png)
+![Rounded Barrel Crafting Recipe](../wiki-images/rounded_barrel.png)
 
 Beveled Glass:
 
-![Beveled Glass](../beveled_glass.png)
+![Beveled Glass](../wiki-images/beveled_glass.png)
 
 Fireplace Screens: (Prevent pets from falling into fires!)
 
-![Screen Crafting Recipe](../screen.png)
+![Screen Crafting Recipe](../wiki-images/screen.png)
 
 Stew Pot:
 
-![Stew Pot Crafting Recipe](../stew_pot.png)
+![Stew Pot Crafting Recipe](../wiki-images/stew_pot.png)
 
 Campfire Stew Pot:
 
-![Campfire Stew Pot Crafting Recipe](../campfirestewpot.png)
+![Campfire Stew Pot Crafting Recipe](../wiki-images/campfirestewpot.png)
 
 Chimney: (The inside is climbable!)
 
-![Chimney Crafting Recipe](../chimney.png)
+![Chimney Crafting Recipe](../wiki-images/chimney.png)
 
 Snowy Bush:
 
-![Bush](../snowybush.png)
+![Bush](../wiki-images/snowybush.png)
 
 Snowy Rocks:
 
-![Rocks](../snowyrocks.png)
+![Rocks](../wiki-images/snowyrocks.png)
 
 Salt & Charcoal Blocks:
 
-![Salt & Charcoal Recipe](../blocks.png)
+![Salt & Charcoal Recipe](../wiki-images/blocks.png)
 
 Polished Volcanic Stone, Polished Volcanic Stone (alt. recipe) & Smooth Stone:
 
-![Smooth & Polished Recipes](../cutting.png)
+![Smooth & Polished Recipes](../wiki-images/cutting.png)
 
 New shelf variants for every occasion! Cobweb'ed variants of all the shelves can be made by adding a cobweb.
 
-![Shelves](../shelfs.png)
+![Shelves](../wiki-images/shelfs.png)
 
 Crystal Balls that are overflowing with runes are perfect for any witchy occasion.
 
-![Rune](../ball.png)
+![Rune](../wiki-images/ball.png)
 
 Carmine can be made into a variety of bricks.
 
-![Carmine](../carmine.png)
+![Carmine](../wiki-images/carmine.png)
 
 _[Return to Main Page](README.md)_

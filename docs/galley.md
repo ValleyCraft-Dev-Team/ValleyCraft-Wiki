@@ -1,4 +1,4 @@
-![](../banner_gallery.png)
+![](../wiki-images/banner_gallery.png)
 
 ## Gallery
 

@@ -1,4 +1,4 @@
-![](../banner_thanks.png)
+![](../wiki-images/banner_thanks.png)
 
 ## Credit, Attribution, and Special Thanks goes to:
 

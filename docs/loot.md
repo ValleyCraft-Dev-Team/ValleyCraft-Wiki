@@ -1,4 +1,4 @@
-![Exploration, Loot & Gameplay Changes](../banner_loot_new.png)
+![Exploration, Loot & Gameplay Changes](../wiki-images/banner_loot_new.png)
 
 ## Exploration, Loot & Gameplay Changes
 
@@ -33,7 +33,7 @@ _[Return to Main Page](README.md)_
 * **Verdantine** can be found in Taiga biomes. (1/2+)
 * **Diabase** can be found underground in Dark Forests. (1/2+)
 
-![Blocks](../world_new_1.png)
+![Blocks](../wiki-images/world_new_1.png)
 
 ## Mod compatibility info:
 For the sake of compatibility with other mods, the following loot tables have been changed:

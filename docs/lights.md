@@ -1,4 +1,4 @@
-![](../banner_lights.png)
+![](../wiki-images/banner_lights.png)
 
 ## Redstone Lanterns, Hanging Lanterns & Braziers
 
@@ -8,20 +8,20 @@ _[Return to Main Page](README.md)_
 
 Redstone lanterns give off a signal just like regular Redstone Torches, but they can be hung up and also used underwater.
 
-![Redstone Crafting Recipe](../redstone.png)
+![Redstone Crafting Recipe](../wiki-images/redstone.png)
 
 Hanging Varients are made by using two Iron Nuggets to form a bar:
 
-![Knife Crafting Recipe](../hanging.png)
+![Knife Crafting Recipe](../wiki-images/hanging.png)
 
 Braziers provide a nice, (mostly safe atmosphere while lighting up rooms effectively. They can be made with Coal, Charcoal, and Soul Sand. Soul Sand will give a Soul Brazier varient which can be used to scare away Piglins! Best of all, braziers will never burn your house down by accident!
 
-![Brazier Crafting Recipe](../brazier.png)
+![Brazier Crafting Recipe](../wiki-images/brazier.png)
 
 Copper Braziers give off a Green flame! (1.2+)
 
-![Brazier Crafting Recipe](../copper_brazier.png)
+![Brazier Crafting Recipe](../wiki-images/copper_brazier.png)
 
-![Display 3](../light_display.png)
+![Display 3](../wiki-images/light_display.png)
 
 _[Return to Main Page](README.md)_

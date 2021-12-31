@@ -1,4 +1,4 @@
-![](../banner_update_2.0.png)
+![](../wiki-images/banner_update_2.0.png)
 
 ## Welcome to the ValleyCraft wiki!
 
@@ -43,7 +43,7 @@ Here you will find all the various information you will need for ValleyCraft on 
 
 ## Don't Forget to add the Fabric API to your mods folder w/ your installation of Fabric!
 
-![](../niconicokneecaps.png)
+![](../wiki-images/niconicokneecaps.png)
 
 ## Github Repository: [Click here!](https://github.com/l1nkl3/Calamity)
 

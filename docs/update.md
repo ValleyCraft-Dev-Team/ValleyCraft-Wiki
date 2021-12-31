@@ -1,4 +1,4 @@
-![](../banner_update.png)
+![](../wiki-images/banner_update.png)
 
 _[Return to Main Page](README.md)_
 
