@@ -1,4 +1,4 @@
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_thanks.png)
+![](../banner_thanks.png)
 
 ## Credit, Attribution, and Special Thanks goes to:
 
@@ -12,4 +12,4 @@
 * [Duck Quack](https://freesound.org/people/qubodup/sounds/442820/) By **qubodup**
 Licensed Under [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/)
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
+_[Return to Main Page](README.md)_

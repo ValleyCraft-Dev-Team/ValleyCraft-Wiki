@@ -1,6 +1,6 @@
-![](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_update.png)
+![](../banner_update.png)
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
+_[Return to Main Page](README.md)_
 
 ## Update Log
 
@@ -87,4 +87,4 @@ V. 1.3.2. -
 
   * Fixed the Chiseled Carmine recipe.
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
+_[Return to Main Page](README.md)_

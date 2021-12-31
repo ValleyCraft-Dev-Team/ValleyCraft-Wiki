@@ -1,10 +1,10 @@
-![Exploration, Loot & Gameplay Changes](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/banner_loot_new.png)
+![Exploration, Loot & Gameplay Changes](../banner_loot_new.png)
 
 ## Exploration, Loot & Gameplay Changes
 
 ValleyCraft adds several new loot items to the mix, so if you don't want any spoilers, turn back now!
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
+_[Return to Main Page](README.md)_
 
 ## Mobs
 
@@ -26,14 +26,14 @@ _[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/
 * **Fern, Peony, Lilac,** and **Rose Bushes** can be found in their respective biome types that match with their larger counterparts.
 * **Tomato Bushes** can be found growing in shattered plateaus.
 * **Bitter Berry Bushes** can be found growing in jungles.
-* **Wild Crops** can be found growing in [different biomes](https://github.com/l1nkl3/ValleyCraft-Wiki/blob/gh-pages/docs/farm_goods.md). (1/2+)
+* **Wild Crops** can be found growing in [different biomes](farm_goods.md). (1/2+)
 * **Ice, Packed Ice, Snow,** and **Powdered Snow** can be found underground in snowy/frozen biomes. (1/2+)
 * **Grimestone** can be found underground in Swamps. (1/2+)
 * **Marinite** can be found underground in Oceans. (1/2+)
 * **Verdantine** can be found in Taiga biomes. (1/2+)
 * **Diabase** can be found underground in Dark Forests. (1/2+)
 
-![Blocks](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/wiki-images/world_new_1.png)
+![Blocks](../world_new_1.png)
 
 ## Mod compatibility info:
 For the sake of compatibility with other mods, the following loot tables have been changed:
@@ -43,4 +43,4 @@ For the sake of compatibility with other mods, the following loot tables have be
 * simple_dungeon.json (The Small Cobblestone Dungeons)
 * shipwreck_supply.json (Shipwrecks)
 
-_[Return to Main Page](https://github.com/l1nkl3/ValleyCraft/blob/gh-pages/docs/README.md)_
+_[Return to Main Page](README.md)_
