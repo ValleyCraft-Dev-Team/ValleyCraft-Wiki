@@ -1,5 +1,6 @@
 ## ValleyCraft 2.2.1 - Hotfix
-- Crab trap bait item is now shift clickable!
+- The crab trap bait item is now shift clickable!
+- The crab trap output is now shift clickable too.
 - Breaking ice with Tongs no longer creates water.
 - Crab trap's hitbox is now precise and non-redstone conducting.
 - Duck, Minnow, Sardine, and Red Porgy spawns weight is reduced by 1.
