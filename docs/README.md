@@ -25,8 +25,8 @@ Here you will find all the various information you will need for ValleyCraft on 
 * [Attribution/Special Thanks](thanks.md)
 
 ## Would you like to suggest a feature or report a bug?
-* [Report Bugs](https://github.com/l1nkl3/ValleyCraft-Wiki/issues)
-* [Suggest Features](https://github.com/l1nkl3/ValleyCraft-Wiki/issues)
+* [Report Bugs](https://github.com/ValleyCraft-Dev-Team/ValleyCraft/issues)
+* [Suggest Features](https://github.com/ValleyCraft-Dev-Team/ValleyCraft/issues)
 
 ## [Follow me/updates to the mod on Twitter! @LinkleModding](https://twitter.com/LinkleModding)
 
@@ -45,6 +45,6 @@ Here you will find all the various information you will need for ValleyCraft on 
 
 ![](../wiki-images/niconicokneecaps.png)
 
-## Github Repository: [Click here!](https://github.com/l1nkl3/Calamity)
+## Github Repository: [Click here!](https://github.com/ValleyCraft-Dev-Team/ValleyCraft)
 
 
